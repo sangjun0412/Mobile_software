@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><integer-array name="resId">
+    <item>@drawable/bacon</item>
+    <item>@drawable/egg</item>
+    <item>@drawable/tuna</item>
+    <item>@drawable/meatball</item>
+    <item>@drawable/shrimp</item>
+    <item>@drawable/steak</item>
+    <item>@drawable/turkey</item>
+    <item>@drawable/vege</item>
+    <item>@drawable/mushroom</item>
+    <item>@drawable/ham</item>
+    <item>@drawable/special</item>
+</integer-array>
+
+    <string-array name="title">
+        <item>베이컨 샌드위치</item>
+        <item>계란 샌드위치</item>
+        <item>참치 샌드위치</item>
+        <item>미트볼 샌드위치</item>
+        <item>새우 샌드위치</item>
+        <item>스테이크 샌드위치</item>
+        <item>칠면조 샌드위치</item>
+        <item>베지 샌드위치</item>
+        <item>버섯 샌드위치</item>
+        <item>햄 샌드위치</item>
+        <item>Special 샌드위치</item>
+
+
+    </string-array>
+
+    <string-array name="content">
+        <item>맛있는 베이컨 샌드위치입니다.\n
+            가격: 4000원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 계란 샌드위치입니다.\n
+            가격: 3500원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 참치 샌드위치입니다.\n
+            가격: 4000\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 미트볼 샌드위치입니다.\n
+            가격: 5500원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 새우 샌드위치입니다.\n
+            가격: 5000원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 스테이크 샌드위치입니다.\n
+            가격: 5000원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 칠면조 샌드위치입니다.\n
+            가격: 3500원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 베지 샌드위치입니다.\n
+            가격: 3000원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 버섯 샌드위치입니다.\n
+            가격: 4500원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 햄 샌드위치입니다.\n
+            가격: 3500원\n
+            https://www.subway.co.kr/
+        </item>
+        <item>맛있는 Special 샌드위치입니다.\n
+            가격: 6000원\n
+            https://www.subway.co.kr/
+        </item>
+    </string-array></resources>

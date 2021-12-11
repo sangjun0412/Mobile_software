@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final_project</string>
+    <string name="image1">https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/ea3f3ef55b24c911bdddc42e7aa6d0bb1.jpg</string>
+    <string name="image2">https://mblogthumb-phinf.pstatic.net/MjAxNzA0MDVfMjk0/MDAxNDkxMzUwMjUwNDIy.xes-zzTM7ofGOh_4lbguekuJZ0_dxK98ArspSAWn1Gwg.c6ZdlG1lnDBFp7eWq9Byuzd-VHiSODR8AYb0vKuXTLAg.JPEG.dew36/2.jpg?type=w2</string>
+    <string name="image3">https://i.ytimg.com/vi/CZyj4NefeyI/maxresdefault.jpg</string>
+    <string name="image4">https://homecuisine.co.kr/files/attach/images/1462/625/078/aeb5b7006d4bbbf28f54a1e7155a8ac7.JPG</string>
+    <string name="image5">https://static.wtable.co.kr/image/production/service/recipe/733/dbd29515-5e1e-4753-8be0-a13594856264.jpg</string>
+    <string name="image6">https://cloudfront.haemukja.com/vh.php?url=https://d1hk7gw6lgygff.cloudfront.net/uploads/direction/image_file/14488/org_resized_6.jpg</string>
+    <string name="image7">https://storage.doopedia.co.kr/upload/_upload/image/1105/19/110519017233415/110519017233415_thumb_400.jpg</string>
+    <string name="image8">https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/fd0640447092a5b4e3b42fcbd2a45520.jpg</string>
+    <string name="image9">https://t1.daumcdn.net/cfile/blog/271E913F51458E7B05</string>
+    <string name="image11">https://lh3.googleusercontent.com/proxy/lJ_O5hwc8-xGNWkRk56Uk6sbNG_0dGtwvtVMQ5k1k7Qb-8l4GEnJIhZ52AntUZFt1fFggBE4WAsHW9Ucp78nOnuazZezronHM2bo5eJoRjcT2xAVHgX5yFTJpS1VwR4AtNEZfIqqgXajbOpbbcCJXAOU7pbvwn8gtICfN989z2JakDn8WudUR3bp3FF-Nu00fwDjAYUVzu5mcBjve1KjbuGcT5sgVZZrEs-G_hildpswRVMXVu0JWA</string>
+    <string name="image10">https://t1.daumcdn.net/cfile/tistory/236E0C4357025D4D0E</string>
+</resources>
